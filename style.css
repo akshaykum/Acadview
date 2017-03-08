@@ -1,0 +1,126 @@
+@media (max-width :650px) {body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0,auto;
+    background: #ffffff;
+    
+}
+
+div{
+    
+    height:300px;
+    background-size: cover;
+    position: relative;
+    border-radius:15px;
+    margin: 5px, 10px, 5px,10px ;
+    
+    
+}
+h1{
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;
+    size: 200px;
+    color: rgba(0,0, blue, 1);
+    margin: 50,0,0,0;
+}
+
+h2{
+    text-align: center;
+    margin: 0,0,100px,0;
+}
+
+p
+{
+   color: rgba(255,255,255,1);
+   background: -webkit-linear-gradient(bottom,rgba(0,0,0,1), rgba(0,0,0,0.2));
+   background: -moz-linear-gradient(bottom,rgba(0,0,0,1), rgba(0,0,0,0.2));
+   padding:12px;
+   text-align: justify;
+   line-height: 25px;
+   position: absolute;
+   margin: 20px;
+   bottom: 0;
+   height: 17px;
+   }
+   small{
+       opacity: 0;
+   }
+   .show-description p{
+       height: 120px;
+   }
+   .show-description small{
+       opacity: 1;
+   }
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0,auto;
+    background: white;
+    
+}
+
+div{
+    
+    height:300px;
+    background-size: cover;
+    position: relative;
+    border-radius:15px;
+    margin: 5px 0 0 0 ;
+    
+    
+}
+h1{
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;
+    size: 200px;
+    color: rgba(0,0, blue, 1);
+    margin: 50,0,0,0;
+}
+
+h2{
+    text-align: center;
+    margin: 0,0,70px,0;
+}
+
+p
+{
+   color: rgba(255,255,255,1);
+   background: -webkit-linear-gradient(bottom,rgba(0,0,0,1), rgba(0,0,0,0.2));
+   background: -moz-linear-gradient(bottom,rgba(0,0,0,1), rgba(0,0,0,0.2));
+   padding:12px;
+   text-align: justify;
+   line-height: 25px;
+   position: absolute;
+   margin: 0;
+   bottom: 0;
+   height: 17px;
+   transition : height 1s;
+   -webkit-transition : height 1s;
+   -moz-transition : height 1s;
+   }
+   small{
+       opacity: 0;
+   }
+     .show-description p{
+       height: 120px;
+   }
+   .show-description small{
+       opacity: 1;
+   }
+.price{
+    
+    float: right;
+}
+
+.Bed{
+    background-size: cover;
+    background-image: url(https://s-media-cache-ak0.pinimg.com/originals/ce/d0/92/ced09254813029fba80de2d4a0992abb.png);
+}
+
+.Table{
+    background-size: cover;
+    background-image: url(https://st.hzcdn.com/simgs/1051904d0567370f_4-7673/transitional-dining-tables.jpg);
+}
+.mattress{
+    background-size: cover;
+    background-image: url(http://demandware.edgesuite.net/aaog_prd/on/demandware.static/-/Sites-Mattress-Firm-Library/default/dwbf27fd16/images/Landing/shop-mattresses/HR340_Mattress.jpg);
+}
